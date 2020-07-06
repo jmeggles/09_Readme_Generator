@@ -55,7 +55,7 @@ inquirer
         {
             type: "input",
             name: "credits",
-            message: "Who contributed/collaborated on this project?"
+            message: "Who assisted on this project (shout outs)?"
         },
         {
             type: "input",
