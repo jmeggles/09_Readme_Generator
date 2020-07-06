@@ -3,17 +3,17 @@
   Readme Generator
 
   ## Overview 
-  An easily accessible template for any readme.
+  Easily accessible readme template for any project.
 
-  - (https://github.com/jmeggles/09_Readme_Generator)
-  - (https://jmeggles.github.io/09_Readme_Generator/)
+  - [Link to project]
+  - [Link to project]
 
   - ![Project gif](https://media.giphy)
   - [Project image]<img src="filename" width=600>
   - [Project image]<img src="filename" width=600>
 
   ## Badges
-  ![APM](https://img.shields.io/apm/l/npm?style=plastic)
+  
 
   ## Table of Contents:
   - [Installation](#Installation)
@@ -26,30 +26,27 @@
   - [Email](#Email) 
 
   ## Motivation
-  This project was to make readmes easier and quicker using an already-made template for any project.
+  This project is to make readmes quicker and easier to complete.
 
   ## Installation
   Use npm package.
 
   ## How to use
-  After loading npm package, run node and answer all prompts to generate the readme.
+  After installing npm, run node and filename then answer all questions when prompted to generate the readme.
 
   ## Benefit
-  Anyone!  This is an essential part of any project.
+  Anyone!  This is a template for all github projects.
 
   ## License
   MIT
 
   ## Credits
-  John Dinsmore
-  Jorge Alvarez
-  Ben Benson WebDev Tutoring
-  (https://www.w3schools.com/)
+  John Dinsmore, Jorge Alvarez, Ben Benson, W3 Schools
 
   ## Tests
-  No test as of yet.
+  No tests yet.
 
   ## Contribute
-  Yes.  They can make changes/updates at anytime through github.
+  Anyone can change, add, or comment on the project in gthub.
 
   © Copyright 2020
