@@ -39,6 +39,9 @@ function generateMarkdown(answers) {
   ## License
   ${answers.license}
 
+  ## Credits
+  ${answers.credits}
+
   ## Tests
   ${answers.tests}
 

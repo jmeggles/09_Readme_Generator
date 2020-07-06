@@ -2,9 +2,12 @@
   # Project Name
   
 
-  ![Project gif](giphy-url)
-  <[Project image]img src="filename" width=600>
-  <[Project image]img src="filename" width=600>
+  - [Link to project]
+  - [Link to project]
+
+  - ![](https://media.giphy)
+  - [Project image]<img src="filename" width=600>
+  - [Project image]<img src="filename" width=600>
 
   ## Description 
   

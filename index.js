@@ -53,13 +53,18 @@ inquirer
         },
         {
             type: "input",
-            name: "contribute",
-            message: "Would you like others to contribute?  If so, how?"
+            name: "credits",
+            message: "Who contributed/collaborated on this project?"
         },
         {
             type: "input",
             name: "tests",
             message: "Have tests applied to this project?"
+        },
+        {
+            type: "input",
+            name: "contribute",
+            message: "Would you like others to contribute to this project? If so, how?"
         },
         {
             type: "input",
