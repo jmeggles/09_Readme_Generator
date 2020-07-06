@@ -31,7 +31,7 @@
   ## Installation
   Use npm inquirer package.
 
-  ## How to use
+  ## How_to_use
   After installing npm pkg, run node and file to generate the prompts. Answer all prompts and the readme will generate in your reletaive folder.
 
   ## Benefit
