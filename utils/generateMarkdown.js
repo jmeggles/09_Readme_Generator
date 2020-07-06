@@ -1,8 +1,12 @@
 // function to generate markdown for README
+// all items to show as the template on the markdown file
 function generateMarkdown(answers) {
   return `
   # Project Name
   ${answers.title}
+
+  ## Overview 
+  ${answers.about}
 
   - [Link to project]
   - [Link to project]
@@ -11,11 +15,8 @@ function generateMarkdown(answers) {
   - [Project image]<img src="filename" width=600>
   - [Project image]<img src="filename" width=600>
 
-  ## Overview 
-  ${answers.about}
-
   ## Badges
-  ${answers.about}
+  
 
   ## Table of Contents:
   - [Installation](#Installation)
@@ -50,6 +51,8 @@ function generateMarkdown(answers) {
 
   ## Contribute
   ${answers.contribute}
+
+  © Copyright 2020
 `;
 }
 
