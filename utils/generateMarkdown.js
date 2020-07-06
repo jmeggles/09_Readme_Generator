@@ -11,7 +11,7 @@ function generateMarkdown(answers) {
   - [Link to project]
   - [Link to project]
 
-  - ![](https://media.giphy)
+  - ![Project gif](https://media.giphy)
   - [Project image]<img src="filename" width=600>
   - [Project image]<img src="filename" width=600>
 
