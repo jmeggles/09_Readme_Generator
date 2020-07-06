@@ -20,10 +20,9 @@
   - [How to use](#Usage)
   - [Benefit](#Benefit)
   - [License](#License)
+  - [Credits](#Credits)
   - [Tests](#Tests)
   - [Contribute](#Contribute)
-  - [Github Username](#Questions)
-  - [Email](#Email) 
 
   ## Motivation
   This project is to make readmes quicker and easier to complete.
