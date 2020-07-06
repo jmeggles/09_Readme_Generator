@@ -25,8 +25,6 @@ function generateMarkdown(answers) {
   - [License](#License)
   - [Tests](#Tests)
   - [Contribute](#Contribute)
-  - [Github Username](#Questions)
-  - [Email](#Email) 
 
   ## Motivation
   ${answers.motivation}
