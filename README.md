@@ -26,11 +26,11 @@
   ## License
   MIT
 
+  ## Tests
+  No tests were done for this project.
+
   ## Contribute
   
-
-  ## Tests
-  No tests were done for this porject.
 
   ## Github
   jmeggles

@@ -1,6 +1,12 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
-  return `# ${answers.title}
+  return `
+  # Project Name
+  ${answers.title}
+
+  ![Project image](project-img-url)
+
+
   ## Description 
   ${answers.about}
 
@@ -8,12 +14,13 @@ function generateMarkdown(answers) {
 
   ## Table of Contents:
   - [Installation](#Installation)
-  - [Usage](#Usage)
+  - [How to use](#Usage)
   - [Beneift](#Benefit)
   - [License](#License)
   - [Tests](#Tests)
   - [Contribute](#Contribute)
-  - [Questions](#Questions)
+  - [Github Username](#Questions)
+  - [Email](#Email) 
 
   ## Motivation
   ${answers.motivation}
@@ -21,7 +28,7 @@ function generateMarkdown(answers) {
   ## Installation
   ${answers.install}
 
-  ## Usage
+  ## How to use
   ${answers.usage}
 
   ## Benefit
@@ -36,9 +43,11 @@ function generateMarkdown(answers) {
   ## Contribute
   ${answers.contribute}
 
-  ## Github
+  ## Github Username
   ${answers.github}
 
+  ## Email
+  ${answers.email}
 `;
 }
 
