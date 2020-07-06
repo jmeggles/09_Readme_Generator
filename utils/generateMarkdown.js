@@ -4,13 +4,15 @@ function generateMarkdown(answers) {
   ## Description 
   ${answers.about}
 
+  !
+
   ## Table of Contents:
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [Beneift] (#Benefit)
+  - [Beneift](#Benefit)
   - [License](#License)
-  - [Contribute](#Contribute)
   - [Tests](#Tests)
+  - [Contribute](#Contribute)
   - [Questions](#Questions)
 
   ## Motivation
@@ -28,17 +30,15 @@ function generateMarkdown(answers) {
   ## License
   ${answers.license}
 
-  ## Contribute
-  ${answers.contribute}
-
   ## Tests
   ${answers.tests}
+
+  ## Contribute
+  ${answers.contribute}
 
   ## Github
   ${answers.github}
 
-  ## Questions
-  ${answers.questions}
 `;
 }
 

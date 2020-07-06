@@ -1,39 +1,38 @@
-# asd
+# Readme Generator
   ## Description 
-  ads
+  A template for an all purpose readme.
 
   ## Table of Contents:
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [Benefit](#Benefit)
+  - [Beneift] (#Benefit)
   - [License](#License)
   - [Contribute](#Contribute)
   - [Tests](#Tests)
   - [Questions](#Questions)
 
   ## Motivation
-  adsas
+  This template is a quick and easy way to make the readme for any project.  Saves time!
 
   ## Installation
-  dasd
+  Must have npm inquirer to install.
 
   ## Usage
-  asd
+  Once npm inquirer is installed, follow the prompts to add all the info needed for the prject description.
 
   ## Benefit
-  asda
+  Anyone!  This is for all projects so anyone can use this template.
 
   ## License
   MIT
 
   ## Contribute
-  asd
+  
 
   ## Tests
-  asd
+  No tests were done for this porject.
 
   ## Github
-  ad
+  jmeggles
 
-  ## Questions
-  undefined
+
