@@ -60,7 +60,7 @@ inquirer
         {
             type: "input",
             name: "tests",
-            message: "Have tests applied to this project?"
+            message: "Have tests been applied to this project?"
         },
         {
             type: "input",
