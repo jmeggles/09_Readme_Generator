@@ -5,7 +5,7 @@
   ## Table of Contents:
   - [Installation](#Installation)
   - [Usage](#Usage)
-  - [Benefit] (#Benefit)
+  - [Benefit](#Benefit)
   - [License](#License)
   - [Contribute](#Contribute)
   - [Tests](#Tests)
