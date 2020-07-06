@@ -5,16 +5,9 @@
   ## Overview 
   Easily accessible readme template for any project.
 
-  - (https://jmeggles.github.io/09_Readme_Generator/)
-  - (https://github.com/jmeggles/09_Readme_Generator)
-
-  - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
-  - <img src="./assets/images/screenshot1.png" width=600>
-  - <img src="./assets/images/screenshot2.png" width=600>
-
-  ## Badges
-    
   ## Table of Contents:
+  - [Links to github project](#Links)
+  - [Screenshots and GIFs](#Screenshots)
   - [Installation](#Installation)
   - [How to use](#Usage)
   - [Benefit](#Benefit)
@@ -23,7 +16,14 @@
   - [Tests](#Tests)
   - [Contribute](#Contribute)
 
-  ## Motivation
+  - (https://jmeggles.github.io/09_Readme_Generator/)
+  - (https://github.com/jmeggles/09_Readme_Generator)
+
+  - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
+  - <img src="./assets/images/screenshot1.png" width=600>
+  - <img src="./assets/images/screenshot2.png" width=600>
+
+   ## Motivation
   This project is to make readmes quicker and easier to complete.
 
   ## Installation ![npm](https://img.shields.io/npm/v/npm?color=pink&style=plastic) ![npm](https://img.shields.io/npm/v/inquirer?color=pink&label=inquirer&style=plastic)

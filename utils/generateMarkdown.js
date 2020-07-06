@@ -8,23 +8,24 @@ function generateMarkdown(answers) {
   ## Overview 
   ${answers.about}
 
-  - [Link to project]
-  - [Link to project]
-
-  - ![Project gif](https://media.giphy)
-  - [Project image]<img src="filename" width=600>
-  - [Project image]<img src="filename" width=600>
-
-  ## Badges
-  
-
   ## Table of Contents:
+  - [Links to github project](#Links)
+  - [Screenshots and GIFs](#Screenshots)
   - [Installation](#Installation)
   - [How to use](#Usage)
   - [Benefit](#Benefit)
   - [License](#License)
   - [Tests](#Tests)
   - [Contribute](#Contribute)
+
+ ## Links
+  - [Link to project]
+  - [Link to project]
+
+ ## Screenshots and GIFs 
+  - ![Project gif](https://media.giphy)
+  - [Project image]<img src="filename" width=600>
+  - [Project image]<img src="filename" width=600>
 
   ## Motivation
   ${answers.motivation}
