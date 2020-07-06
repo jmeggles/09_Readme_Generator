@@ -13,8 +13,7 @@
   - <img src="./assets/images/screenshot2.png" width=600>
 
   ## Badges
-  ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
-  
+    
   ## Table of Contents:
   - [Installation](#Installation)
   - [How to use](#Usage)
@@ -28,6 +27,8 @@
   This project is to make readmes quicker and easier to complete.
 
   ## Installation
+  ![npm](https://img.shields.io/npm/v/npm?color=pink&style=plastic)
+  ![npm](https://img.shields.io/npm/v/inquirer?color=pink&label=inquirer&style=plastic)
   Use npm package.
 
   ## How to use
@@ -37,6 +38,7 @@
   Anyone!  This is a template for all github projects.
 
   ## License
+  ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
   MIT
 
   ## Credits
