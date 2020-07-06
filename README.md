@@ -14,8 +14,7 @@
 
   ## Badges
   ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
-  ![Node version](https://img.shields.io/node/v/[7.2.0].svg?style=plastic)
-
+  
   ## Table of Contents:
   - [Installation](#Installation)
   - [How to use](#Usage)
