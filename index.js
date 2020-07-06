@@ -1,7 +1,7 @@
 // array of questions for user
 const inquirer = require("inquirer");
 const fs = require("fs");
-
+const util = require("util");
 
 // questions for user to answer based on project info
 inquirer
@@ -54,8 +54,18 @@ inquirer
     {
         type: "input",
         name: "tests",
-        message: "Provide tests for users here, to demo the project and its use."
+        message: "Run tests..."
     },
+    {
+        type: "input",
+        name: "github",
+        message: "Your GitHub Username:"
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "Your email:"
+    }
 ])
     .then(answer => {
         generateReadMe(answer)
@@ -72,6 +82,8 @@ function init() {
 
 // function call to initialize program
 init();
+
+
 
 
 
