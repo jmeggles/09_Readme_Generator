@@ -23,7 +23,7 @@ function generateMarkdown(answers) {
   - [Link to project]
   - [Link to project]
 
- ## Screenshots and GIFs 
+ ## Screenshots
   - ![Project gif](https://media.giphy)
   - [Project image]<img src="filename" width=600>
   - [Project image]<img src="filename" width=600>
@@ -34,7 +34,7 @@ function generateMarkdown(answers) {
   ## Installation
   ${answers.installation}
 
-  ## How to use
+  ## How_to_use
   ${answers.usage}
 
   ## Benefit
