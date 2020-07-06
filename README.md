@@ -6,10 +6,11 @@
   Easily accessible readme template for any project.
 
   ## Table of Contents:
-  - [Links to github project](#Links)
-  - [Screenshots and GIFs](#Screenshots)
-  - [Installation](#Install)
-  - [How to use](#Usage)
+  - [Project_Links](#Project_Links)
+  - [Screenshots_GIFs](#Screenshots_GIFs)
+  - [Motivation](#Motivation)
+  - [Installation](#Installation)
+  - [How_to_use](#How_to_use)
   - [Benefit](#Benefit)
   - [License](#License)
   - [Credits](#Credits)

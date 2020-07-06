@@ -9,10 +9,11 @@ function generateMarkdown(answers) {
   ${answers.about}
 
   ## Table of Contents:
-  - [Links to github project](#Links)
-  - [Screenshots and GIFs](#Screenshots)
+  - [Project_Links](#Project_Links)
+  - [Screenshots_GIFs](#Screenshots_GIFs)
+  - [Motivation](#Motivation)
   - [Installation](#Installation)
-  - [How to use](#Usage)
+  - [How_to_use](#How_to_use)
   - [Benefit](#Benefit)
   - [License](#License)
   - [Tests](#Tests)
