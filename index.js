@@ -72,7 +72,7 @@ function generatePrompts() {
             message: "Your email:"
         }
 ]).then(answer => {
-        generateReadMe(answer)
+        generateMarkdown(answer)
     })
 
     // ??  used in class ??
@@ -99,70 +99,4 @@ function generatePrompts() {
     }
 
     // function call to initialize program
-    init();
-
-
-
-
-
-
-    // // function to write README file
-    // function writeToFile(fileName, data) {
-    // }
-
-    // // function to initialize program
-    // function init() {
-
-    // }
-
-    // // function call to initialize program
-    // init();
-
-
-
-
-// // Object.keys(data) === ['title', 'install']
-// // Object.values(data) === ['batman', 'npm i']
-// // Object.entries(data) === [['title', 'batman'], ['install', 'npm i']]
-// function generateReadMe(data) {
-//     fs.readFile('template.md', 'utf8', function (err, md) {
-//         if (err) throw err;
-        
-//         // Object.keys(data).forEach(key => {
-//         //     // console.log(key, data[key])
-//         //     md = md.replace('{{' + key + '}}', data[key])
-//         // })
-        
-//         var keys = Object.keys(data);
-//         for(var i = 0; i < keys.length; i++){
-//             var key = keys[i];
-
-//             md = md.replace('{{' + key + '}}', data[key])
-//         }
-
-//         // md = md.replace('{{title}}', data.title)
-//         // md = md.replace('{{install}}', data.install)
-
-    //     fs.writeFile('output.md', md, function (err) {
-    //         if (err) throw err;
-    //     })
-    // })
-
-//     // var md = `# Title: ${data.title}
-
-//     // # Instructions: 
-//     // '''
-//     // ${data.install}
-//     // '''
-//     // `;
-
-
-
-
-
-
-
-
-
-
-
+    init();   
