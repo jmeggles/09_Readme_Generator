@@ -1,5 +1,5 @@
 
-  # Project Name
+  # Project Name ![GitHub deployments](https://img.shields.io/github/deployments/badges/shields/shields-staging?color=lightgrey)
   Readme Generator
 
   ## Overview 
@@ -7,7 +7,7 @@
 
   ## Table of Contents:
   - [Links](#Links)
-  - [Screenshots](#Screenshots)
+  - [Screenshots_and_GIFs](#Screenshots_and_GIFs)
   - [Motivation](#Motivation)
   - [Installation](#Installation)
   - [How_to_use](#How_to_use)
@@ -17,18 +17,18 @@
   - [Contribute](#Contribute)
 
  ## Links
-  - [Link to project]
-  - [Link to project]
+  - (https://jmeggles.github.io/09_Readme_Generator/)
+  - (https://github.com/jmeggles/09_Readme_Generator)
 
- ## Screenshots and GIFs 
-  - ![Project gif](https://media.giphy)
-  - [Project image]<img src="filename" width=600>
-  - [Project image]<img src="filename" width=600>
+ ## Screenshots_and_GIFs 
+  - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
+  - <img src="./assets/images/screenshot1.png" width=600>
+  - <img src="./assets/images/screenshot2.png" width=600>
 
   ## Motivation
   This template is to generate a quicker, simpler and easier readme for any project.
 
-  ## Installation
+  ## Installation ![npm](https://img.shields.io/npm/v/npm?color=pink&style=plastic) ![npm](https://img.shields.io/npm/v/inquirer?color=pink&label=inquirer&style=plastic)
   Use npm inquirer package.
 
   ## How_to_use
@@ -37,7 +37,7 @@
   ## Benefit
   Anyone!  This template is for any and all projects to help keep it organised. 
 
-  ## License
+  ## License ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
   MIT
 
   ## Credits

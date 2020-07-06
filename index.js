@@ -17,11 +17,6 @@ inquirer
         },
         {
             type: "input",
-            name: "badges",
-            message: "Add badges here"
-        },
-        {
-            type: "input",
             name: "motivation",
             message: "What was the motivation for this project?"
         },

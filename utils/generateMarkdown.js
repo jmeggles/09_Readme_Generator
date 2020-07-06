@@ -10,7 +10,7 @@ function generateMarkdown(answers) {
 
   ## Table of Contents:
   - [Links](#Links)
-  - [Screenshots](#Screenshots)
+  - [Screenshots_and_GIFs](#Screenshots_and_GIFs)
   - [Motivation](#Motivation)
   - [Installation](#Installation)
   - [How_to_use](#How_to_use)
@@ -23,7 +23,7 @@ function generateMarkdown(answers) {
   - [Link to project]
   - [Link to project]
 
- ## Screenshots
+ ## Screenshots_and_GIFs
   - ![Project gif](https://media.giphy)
   - [Project image]<img src="filename" width=600>
   - [Project image]<img src="filename" width=600>
