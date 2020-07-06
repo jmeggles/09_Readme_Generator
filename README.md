@@ -8,7 +8,7 @@
   ## Table of Contents:
   - [Links to github project](#Links)
   - [Screenshots and GIFs](#Screenshots)
-  - [Installation](#Installation)
+  - [Installation](#Install)
   - [How to use](#Usage)
   - [Benefit](#Benefit)
   - [License](#License)
@@ -16,9 +16,11 @@
   - [Tests](#Tests)
   - [Contribute](#Contribute)
 
+  ## Links
   - (https://jmeggles.github.io/09_Readme_Generator/)
   - (https://github.com/jmeggles/09_Readme_Generator)
 
+  ## Screenshots and GIFs
   - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
   - <img src="./assets/images/screenshot1.png" width=600>
   - <img src="./assets/images/screenshot2.png" width=600>
