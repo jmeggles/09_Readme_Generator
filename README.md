@@ -1,5 +1,5 @@
 
-  # Project Name
+  # Project Name ![GitHub deployments](https://img.shields.io/github/deployments/badges/shields/shields-staging?color=lightgrey)
   Readme Generator
 
   ## Overview 
@@ -26,10 +26,8 @@
   ## Motivation
   This project is to make readmes quicker and easier to complete.
 
-  ## Installation
-  ![npm](https://img.shields.io/npm/v/npm?color=pink&style=plastic)
-  ![npm](https://img.shields.io/npm/v/inquirer?color=pink&label=inquirer&style=plastic)
-  Use npm package.
+  ## Installation ![npm](https://img.shields.io/npm/v/npm?color=pink&style=plastic) ![npm](https://img.shields.io/npm/v/inquirer?color=pink&label=inquirer&style=plastic)
+  Use npm inquirer package.
 
   ## How to use
   After installing npm, run node and filename then answer all questions when prompted to generate the readme.
@@ -37,8 +35,7 @@
   ## Benefit
   Anyone!  This is a template for all github projects.
 
-  ## License
-  ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
+  ## License ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
   MIT
 
   ## Credits
