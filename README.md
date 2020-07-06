@@ -1,38 +1,47 @@
-# Readme Generator
+
+  # Project Name
+  
+
+  ![Project gif](giphy-url)
+  <[Project image]img src="filename" width=600>
+  <[Project image]img src="filename" width=600>
+
   ## Description 
-  A template for an all purpose readme.
+  
 
   ## Table of Contents:
   - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Beneift] (#Benefit)
+  - [How to use](#Usage)
+  - [Benefit](#Benefit)
   - [License](#License)
-  - [Contribute](#Contribute)
   - [Tests](#Tests)
-  - [Questions](#Questions)
+  - [Contribute](#Contribute)
+  - [Github Username](#Questions)
+  - [Email](#Email) 
 
   ## Motivation
-  This template is a quick and easy way to make the readme for any project.  Saves time!
+  
 
   ## Installation
-  Must have npm inquirer to install.
+  
 
-  ## Usage
-  Once npm inquirer is installed, follow the prompts to add all the info needed for the prject description.
+  ## How to use
+  
 
   ## Benefit
-  Anyone!  This is for all projects so anyone can use this template.
+  
 
   ## License
   MIT
 
   ## Tests
-  No tests were done for this project.
+  
 
   ## Contribute
   
 
-  ## Github
-  jmeggles
+  ## Github Username
+  
 
-
+  ## Email
+  
