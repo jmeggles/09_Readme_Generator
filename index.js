@@ -3,10 +3,11 @@ const fs = require("fs");
 const util = require("util");
 
 // array of questions for user to answer based on project info
-const questions = [
+// const questions = [
 // function generatePrompts() {
-//     return inquirer
-//         .prompt([
+//     return 
+inquirer
+        .prompt([
         {
             type: "input",
             name: "title",
@@ -57,7 +58,7 @@ const questions = [
         {
             type: "input",
             name: "tests",
-            message: "Run tests..."
+            message: "Have tests applied to this project?"
         },
         {
             type: "input",
@@ -69,51 +70,69 @@ const questions = [
             name: "email",
             message: "Your email:"
         }
-]
-
-inquirer.prompt(questions)
+    ])
     .then(answer => {
-        generateMarkdown(answer)
+        generateReadMe(answer)
     })
 
-    // ??  used in class ??
-    const fileName = data.name.toLowerCase().split('').join('') + ".json";
+    function generateReadMe(data) {
+        fs.readFile('template.md', 'utf8', function (err, md) {
+            if (err) throw err;
+            return console.log(err);
+        })
 
-    // function to write README file
-    fs.writeFile("README", md, function (err) {
-        if (err) {
-        console.log(err);
+            fs.writeFile('output.md', md, function (err) {
+                if (err) throw err;
+            })
     }
-    console.log("Success! Created markdown file!");
-});
+    
+
+    
+
+
+
+
+
+
+
+//     // ??  used in class ??
+//     const fileName = data.name.toLowerCase().split('').join('') + ".json";
+
+//     // function to write README file
+//     fs.writeFile("README", md, function (err) {
+//         if (err) {
+//         console.log(err);
+//     }
+//     console.log("Success! Created markdown file!");
+// });
 
  
 
 
-// // used in class example
-//     fs.writeFile(filename, JSON.stringify(data, null, '\t'), function(err){
+// // // used in class example
+// //     fs.writeFile(filename, JSON.stringify(data, null, '\t'), function(err){
     
-//         if (err) {
-//         return console.log(err);
-//      }
-//         console.log("Success");
-//     });
-// });
+// //         if (err) {
+// //         return console.log(err);
+// //      }
+// //         console.log("Success");
+// //     });
+// // });
 
-    // function to initialize program
-    // async function init() {
-    //     try {
-    //         const answers = await questions();
-    //         const mdFile = generateMarkdown(answers);
+//     // function to initialize program
+//     // async function init() {
+//     //     try {
+//     //         const answers = await questions();
+//     //         const mdFile = generateMarkdown(answers);
     
-    //         await writeFileAsync("README.md", mdFile);
-    //     } 
-    //     catch(err) {
-    //         console.log(err);
-    //     }
-    //     console.log("Successfully created markdown file!");
-    // });
+//     //         await writeFileAsync("README.md", mdFile);
+//     //     } 
+//     //     catch(err) {
+//     //         console.log(err);
+//     //     }
+//     //     console.log("Successfully created markdown file!");
+//     // });
 
 
-    // // function call to initialize program
-    init();   
+//     // function call to initialize program
+//     init();   
