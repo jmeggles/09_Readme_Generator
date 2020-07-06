@@ -1,14 +1,12 @@
-// array of questions for user
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 
-// const questions = []
-
-// questions for user to answer based on project info
-function generatePrompts() {
-    return inquirer
-        .prompt([
+// array of questions for user to answer based on project info
+const questions = [
+// function generatePrompts() {
+//     return inquirer
+//         .prompt([
         {
             type: "input",
             name: "title",
@@ -71,7 +69,10 @@ function generatePrompts() {
             name: "email",
             message: "Your email:"
         }
-]).then(answer => {
+]
+
+inquirer.prompt(questions)
+    .then(answer => {
         generateMarkdown(answer)
     })
 
@@ -80,8 +81,14 @@ function generatePrompts() {
 
     // function to write README file
     fs.writeFile("README", md, function (err) {
-        if (err) throw err;
-    })
+        if (err) {
+        console.log(err);
+    }
+    console.log("Success! Created markdown file!");
+});
+
+ 
+
 
 // // used in class example
 //     fs.writeFile(filename, JSON.stringify(data, null, '\t'), function(err){
@@ -94,9 +101,19 @@ function generatePrompts() {
 // });
 
     // function to initialize program
-    function init() {
+    // async function init() {
+    //     try {
+    //         const answers = await questions();
+    //         const mdFile = generateMarkdown(answers);
+    
+    //         await writeFileAsync("README.md", mdFile);
+    //     } 
+    //     catch(err) {
+    //         console.log(err);
+    //     }
+    //     console.log("Successfully created markdown file!");
+    // });
 
-    }
 
-    // function call to initialize program
+    // // function call to initialize program
     init();   
