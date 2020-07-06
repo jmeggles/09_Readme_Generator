@@ -4,9 +4,9 @@ function generateMarkdown(answers) {
   # Project Name
   ${answers.title}
 
-  ![Project gif](giphy-url)
-  <[Project image]img src="filename" width=600>
-  <[Project image]img src="filename" width=600>
+  - ![Project gif](giphy-url)
+  - <[Project image]img src="filename" width=600>
+  - <[Project image]img src="filename" width=600>
 
   ## Description 
   ${answers.about}
