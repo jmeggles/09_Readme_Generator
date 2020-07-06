@@ -15,7 +15,7 @@ function generateMarkdown(answers) {
   ## Table of Contents:
   - [Installation](#Installation)
   - [How to use](#Usage)
-  - [Beneift](#Benefit)
+  - [Benefit](#Benefit)
   - [License](#License)
   - [Tests](#Tests)
   - [Contribute](#Contribute)
