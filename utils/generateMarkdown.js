@@ -9,7 +9,7 @@ function generateMarkdown(answers) {
   ${answers.about}
 
   ## Table of Contents:
-  - [Project_Links](#Project_Links)
+  - [Project-Links](#Project-Links)
   - [Screenshots_GIFs](#Screenshots_GIFs)
   - [Motivation](#Motivation)
   - [Installation](#Installation)
