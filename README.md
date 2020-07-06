@@ -9,8 +9,8 @@
   - (https://github.com/jmeggles/09_Readme_Generator)
 
   - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
-  - <img src="/assets/images/screenshot1" width=600>
-  - <img src="/assets/images/screenshot2" width=600>
+  - <img src="./assets/images/screenshot1.png" width=600>
+  - <img src="./assets/images/screenshot2.png" width=600>
 
   ## Badges
    ![APM](https://img.shields.io/apm/l/npm?style=plastic)
