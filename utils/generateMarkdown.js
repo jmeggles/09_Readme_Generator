@@ -11,7 +11,10 @@ function generateMarkdown(answers) {
   - [Project image]<img src="filename" width=600>
   - [Project image]<img src="filename" width=600>
 
-  ## Description 
+  ## Overview 
+  ${answers.about}
+
+  ## Badges
   ${answers.about}
 
   ## Table of Contents:
@@ -47,12 +50,6 @@ function generateMarkdown(answers) {
 
   ## Contribute
   ${answers.contribute}
-
-  ## Github Username
-  ${answers.github}
-
-  ## Email
-  ${answers.email}
 `;
 }
 

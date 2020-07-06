@@ -21,6 +21,12 @@ inquirer
         },
         {
             type: "input",
+            name: "badges",
+            message: "Add badges here"
+            ]
+        },
+        {
+            type: "input",
             name: "motivation",
             message: "What was the motivation for this project?"
         },
@@ -66,16 +72,6 @@ inquirer
             name: "contribute",
             message: "Would you like others to contribute to this project? If so, how?"
         },
-        {
-            type: "input",
-            name: "github",
-            message: "Your GitHub Username:"
-        },
-        {
-            type: "input",
-            name: "email",
-            message: "Your email:"
-        }
     ])
     .then(answer => generateReadMe(answer))
 
