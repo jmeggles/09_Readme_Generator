@@ -1,14 +1,23 @@
 {
-  "name": "readmegenerator",
+  "name": "09_Readme_Generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "readme generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jody Eggleston",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.2.0"
-  }
+    "inquirer": "^7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeggles/09_Readme_Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jmeggles/09_Readme_Generator/issues"
+  },
+  "homepage": "https://github.com/jmeggles/09_Readme_Generator#readme"
 }
