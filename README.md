@@ -13,7 +13,8 @@
   - <img src="./assets/images/screenshot2.png" width=600>
 
   ## Badges
-   ![APM](https://img.shields.io/apm/l/npm?style=plastic)
+  ![APM](https://img.shields.io/apm/l/npm?color=pink&style=plastic)
+  ![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=plastic)
 
   ## Table of Contents:
   - [Installation](#Installation)
