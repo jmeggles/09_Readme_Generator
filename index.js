@@ -27,7 +27,7 @@ inquirer
         },
         {
             type: "input",
-            name: "install",
+            name: "installation",
             message: "How to install..."
         },
         {

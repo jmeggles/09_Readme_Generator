@@ -32,7 +32,7 @@ function generateMarkdown(answers) {
   ${answers.motivation}
 
   ## Installation
-  ${answers.install}
+  ${answers.installation}
 
   ## How to use
   ${answers.usage}
