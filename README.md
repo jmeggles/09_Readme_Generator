@@ -5,15 +5,15 @@
   ## Overview 
   Easily accessible readme template for any project.
 
-  - [Link to project]
-  - [Link to project]
+  - (https://jmeggles.github.io/09_Readme_Generator/)
+  - (https://github.com/jmeggles/09_Readme_Generator)
 
-  - ![Project gif](https://media.giphy)
-  - [Project image]<img src="filename" width=600>
-  - [Project image]<img src="filename" width=600>
+  - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
+  - <img src="./assets/images/screenshot1" width=600>
+  - <img src="./assets/images/screenshot1" width=600>
 
   ## Badges
-  
+   ![APM](https://img.shields.io/apm/l/npm?style=plastic)
 
   ## Table of Contents:
   - [Installation](#Installation)
