@@ -21,7 +21,7 @@
   - (https://github.com/jmeggles/09_Readme_Generator)
 
  ## Screenshots_and_GIFs 
-  - ![](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
+  - ![Short vid of deployed readme project](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
   - ![images](./assets/images/screenshot1.png)  
   - ![images](./assets/images/screenshot2.png)
   
