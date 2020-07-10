@@ -25,8 +25,8 @@ function generateMarkdown(answers) {
 
  ## Screenshots_and_GIFs
   - ![Project gif](https://media.giphy)
-  - [Project image]<img src="filename" width=600>
-  - [Project image]<img src="filename" width=600>
+  - ![alt text](./image/path/filename.png)
+  - ![alt text](./image/path/filename.png)
 
   ## Motivation
   ${answers.motivation}
