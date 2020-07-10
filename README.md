@@ -22,8 +22,8 @@
 
  ## Screenshots_and_GIFs 
   - ![Short vid of deployed readme project](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
-  - ![images](./assets/images/screenshot1.png)  
-  - ![images](./assets/images/screenshot2.png)
+  - ![Screenshot of deployed project](./assets/images/screenshot1.png)  
+  - ![Screenshot of deployed project](./assets/images/screenshot2.png)
   
   ## Motivation
   This template is to generate a quicker, simpler and easier readme for any project.  It has all the layout needed, just enter the info per your project as the prompts suggest and that's it!  Easy peasy, lemmon squeezy!
