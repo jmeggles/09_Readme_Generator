@@ -1,5 +1,5 @@
 
-  # Project Name ![GitHub deployments](https://img.shields.io/github/deployments/badges/shields/shields-staging?color=lightgrey)
+  # Project Name ![GitHub deployments](https://img.shields.io/github/deployments/badges/shields/shields-staging?color=green)
   Readme Generator
 
   ## Overview 
@@ -17,8 +17,8 @@
   - [Contribute](#Contribute)
 
  ## Links
-  - (https://jmeggles.github.io/09_Readme_Generator/)
-  - (https://github.com/jmeggles/09_Readme_Generator)
+  - (https://jmeggles.github.io/Readme_Generator/)
+  - (https://github.com/jmeggles/Readme_Generator)
 
  ## Screenshots_and_GIFs 
   - ![Short vid of deployed readme project](https://media.giphy.com/media/WTiciagOjoqx5D3tsM/giphy.gif)
@@ -41,10 +41,10 @@
   MIT
 
   ## Credits
-  John Dinsmore, Jorge Alvarez, Ben Benson WebDev Tutoring, W3 Schools (https://www.w3schools.com/js/), Mozilla (https://developer.mozilla.org/en-US/).
+  Give credits hre.
 
   ## Tests
-  No testing as of yet.
+  Name tests here.
 
   ## Contribute
   Yes. Commit or comment to the project in github.
